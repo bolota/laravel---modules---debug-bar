@@ -18,3 +18,5 @@ composer.json
 description
 hooks/
 .gitattributes
+CONTRIBUTING.md
+readme.md

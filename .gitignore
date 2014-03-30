@@ -10,3 +10,7 @@ composer.lock
 .env.php
 .DS_Store
 Thumbs.db
+.idea/
+info/
+server.php
+HEAD

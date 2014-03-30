@@ -14,3 +14,7 @@ Thumbs.db
 info/
 server.php
 HEAD
+composer.json
+description
+hooks/
+.gitattributes

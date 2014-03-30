@@ -1,5 +1,9 @@
 /bootstrap/compiled.php
+/bootstrap
 /vendor
+artisan
+config
+phpunit.xml
 composer.phar
 composer.lock
 .env.local.php
